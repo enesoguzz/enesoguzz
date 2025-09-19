@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Enes 👋</h1>
 
-<!--
-**enesoguzz/enesoguzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Engineering Student | Data Science & Backend Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="mailto:eenesoguz.mbs@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/enes-oğuz">LinkedIn</a> •
+<a href="https://github.com/enesoguzz">GitHub</a> •
+<a href="https://www.enesoguz.com">Website</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🎓 B.Sc. Computer Engineering @ Kadir Has University (2020 – 2025)
+- 💼 Internship experience at **Renault Turkey (IT)** and **Huawei (Software Development)**
+- 🔧 Hands-on with **Flutter**, **Spring Boot**, **Oracle PL/SQL**, **FortiNet security**, **Windows Server**
+- 🌱 Exploring **AI, ML, NLP, and backend APIs**
+- 🌍 Volunteered as a **Climate Ambassador** and worked on social impact projects (Hatay Child Park, Aydınlık Gelecek, Görmezden Gelme)
+
+---
+
+### ⚡ Tech Stack
+`Python` · `Java` · `C++` · `C` · `Flutter` · `Spring Boot`  
+`FastAPI` · `Oracle PL/SQL` · `Simulink` · `Power BI`  
+Networking basics: `TCP/IP` · `DNS` · `VPN`
+
+---
+
+### 📌 Experience Highlights
+- **Renault Turkey (IT Intern, 2023–2025)**  
+  Flutter apps · Oracle PL/SQL · FortiNet security · Windows Server basics  
+- **Huawei (Software Dev Intern, 2023)**  
+  Spring Boot · Java principles · Observed large-scale projects  
+- **KHAS YEP (IT Intern, 2021–2023)**  
+  Web & DB projects · Workshops on innovation & leadership  
+- **PSM Zorlu (Translator & Artist Guide, 2022)**  
+  Event guidance & translation · Improved communication skills  
+
+---
+
+### 🎖 Certificates
+- IBM – *Python for Data Science, AI & Development*  
+- Google – *Introduction to Git & GitHub* · *Project Management Fundamentals* · *Game Jam*  
+- IESE Business School – *Career Path Essentials*  
+- Renault – *AI and Ethics*  
+- University of Houston – *A Brief History of Human Spaceflight*  
+
+---
+
+### 🚀 Interests & Roadmap
+- AI, ML, NLP, backend microservices  
+- Building FastAPI + Flutter based projects  
+- Exploring cloud deployment (Docker, Render, Hugging Face Spaces)  
+- Energy & smart infrastructure applications  
+
+---
+
+<!-- Optional GitHub stats -->
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=enesoguzz&show_icons=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesoguzz&layout=compact" />
+</p>
