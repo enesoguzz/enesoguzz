@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enes 👋</h1>
 
 <p align="center">
-Computer Engineering Student | Data Science & Backend Enthusiast
+Computer Engineer | Data Science & Backend Enthusiast
 </p>
 
 <p align="center">
@@ -58,8 +58,3 @@ Networking basics: `TCP/IP` · `DNS` · `VPN`
 
 ---
 
-<!-- Optional GitHub stats -->
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=enesoguzz&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesoguzz&layout=compact" />
-</p>
