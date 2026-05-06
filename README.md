@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enes 👋</h1>
 
 <p align="center">
-Computer Engineer | Data Science & Backend Enthusiast
+Computer Engineer | Cyber Security & Data Science & Backend Enthusiast & Network
 </p>
 
 <p align="center">
